@@ -1,7 +1,7 @@
 # workout_tracker
 
-A new Flutter project.
-이 프로젝트는 State 관리를 학습하기 위해 제작되었습니다.
+이 프로젝트는 workout_tracker_remote_copy입니다.
+첫 번째 수정
 
 ## Getting Started
 
